@@ -57,7 +57,7 @@ $config->setRules(
         'lowercase_cast' => true,
         'magic_constant_casing' => true,
         'mb_str_functions' => true,
-        'method_seperation' => true,
+        'method_separation' => true,
         'modernize_types_casting' => true,
         'native_function_casing' => true,
         'native_function_invocation' => true,
