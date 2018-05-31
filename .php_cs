@@ -102,6 +102,8 @@ $config->setRules(
         'phpdoc_single_line_var_spacing' => true,
         'phpdoc_trim' => true,
         'phpdoc_types' => true,
+        'protected_to_private' => true,
+        'psr4' => true,
         'return_type_declaration' => true,
         'semicolon_after_instruction' => true,
         'short_scalar_cast' => true,
