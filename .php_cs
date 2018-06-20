@@ -43,7 +43,7 @@ $config->setRules(
         'array_indentation' => true,
         'array_syntax' => ['syntax' => 'short'],
         'blank_line_before_statement' => [
-            'statements' => ['return', 'continue', 'break', 'declare', 'throw', 'try'],
+            'statements' => ['return', 'continue', 'case', 'default', 'declare', 'throw', 'try'],
         ],
         'binary_operator_spaces' => true,
         'cast_spaces' => ['space' => 'single'],
