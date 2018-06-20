@@ -60,6 +60,7 @@ $config->setRules(
         'linebreak_after_opening_tag' => true,
         'list_syntax' => ['syntax' => 'short'],
         'lowercase_cast' => true,
+        'lowercase_static_reference' => true,
         'magic_constant_casing' => true,
         'mb_str_functions' => true,
         'method_chaining_indentation' => true,
