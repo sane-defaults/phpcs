@@ -66,6 +66,7 @@ $config->setRules(
         'method_chaining_indentation' => true,
         'method_separation' => true,
         'multiline_whitespace_before_semicolons' => true,
+        'native_constant_invocation' => true,
         'native_function_casing' => true,
         'native_function_invocation' => true,
         'new_with_braces' => true,
