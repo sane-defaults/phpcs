@@ -34,6 +34,8 @@ $finder->in(__DIR__);
 
 $config = Config::create();
 
+$config->setRiskyAllowed(true);
+
 $config->setRules(
     [
         '@PSR2' => true,
@@ -59,10 +61,12 @@ $config->setRules(
         'list_syntax' => ['syntax' => 'short'],
         'lowercase_cast' => true,
         'magic_constant_casing' => true,
+        'mb_str_functions' => true,
         'method_chaining_indentation' => true,
         'method_separation' => true,
         'multiline_whitespace_before_semicolons' => true,
         'native_function_casing' => true,
+        'native_function_invocation' => true,
         'new_with_braces' => true,
         'no_blank_lines_after_class_opening' => true,
         'no_blank_lines_after_phpdoc' => true,
@@ -87,8 +91,10 @@ $config->setRules(
         'no_unneeded_final_method' => true,
         'no_unused_imports' => true,
         'no_useless_else' => true,
+        'no_useless_return' => true,
         'no_whitespace_before_comma_in_array' => true,
         'no_whitespace_in_blank_line' => true,
+        'non_printable_character' => ['use_escape_sequences_in_strings' => true],
         'normalize_index_brace' => true,
         'object_operator_without_whitespace' => true,
         'ordered_imports' => true,
@@ -102,6 +108,7 @@ $config->setRules(
         'phpdoc_single_line_var_spacing' => true,
         'phpdoc_trim' => true,
         'phpdoc_types' => true,
+        'pow_to_exponentiation' => true,
         'protected_to_private' => true,
         'psr4' => true,
         'return_type_declaration' => true,
