@@ -82,6 +82,7 @@ $config->setRules(
         'no_mixed_echo_print' => true,
         'no_multiline_whitespace_around_double_arrow' => true,
         'no_null_property_initialization' => true,
+        'no_php4_constructor' => true,
         'no_short_bool_cast' => true,
         'no_short_echo_tag' => true,
         'no_singleline_whitespace_before_semicolons' => true,
