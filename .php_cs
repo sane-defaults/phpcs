@@ -24,7 +24,7 @@ $config->setRules(
             'statements' => ['return', 'continue', 'case', 'default', 'declare', 'throw', 'try'],
         ],
         'binary_operator_spaces' => true,
-        'cast_spaces' => ['space' => 'single'],
+        'cast_spaces' => ['space' => 'none'],
         'class_attributes_separation' => ['elements' => ['method']],
         'compact_nullable_typehint' => true,
         'concat_space' => ['spacing' => 'one'],
