@@ -20,10 +20,10 @@ $config->setRules(
         'align_multiline_comment' => ['comment_type' => 'all_multiline'],
         'array_indentation' => true,
         'array_syntax' => ['syntax' => 'short'],
+        'binary_operator_spaces' => true,
         'blank_line_before_statement' => [
             'statements' => ['return', 'continue', 'case', 'default', 'declare', 'throw', 'try'],
         ],
-        'binary_operator_spaces' => true,
         'cast_spaces' => ['space' => 'none'],
         'class_attributes_separation' => ['elements' => ['method']],
         'compact_nullable_typehint' => true,
