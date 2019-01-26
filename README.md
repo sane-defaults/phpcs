@@ -18,7 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/570639?v=4" width="100px;" alt="Martin Meredith"/><br /><sub><b>Martin Meredith</b></sub>](https://www.sourceguru.net)<br />[💻](https://github.com/sane-defaults/phpcs/commits?author=mezzle "Code") [🤔](#ideas-mezzle "Ideas, Planning, & Feedback") [👀](#review-mezzle "Reviewed Pull Requests") | [<img src="https://avatars1.githubusercontent.com/u/3495587?v=4" width="100px;" alt="Grzegorz Rajchman"/><br /><sub><b>Grzegorz Rajchman</b></sub>](https://github.com/mrliptontea)<br />[💻](https://github.com/sane-defaults/phpcs/commits?author=mrliptontea "Code") [🤔](#ideas-mrliptontea "Ideas, Planning, & Feedback") |
+| [<img src="https://avatars3.githubusercontent.com/u/570639?v=4" width="100px;" alt="Martin Meredith"/><br /><sub><b>Martin Meredith</b></sub>](https://www.sourceguru.net)<br />[💻](https://github.com/sane-defaults/phpcs/commits?author=mezzle "Code") [🤔](#ideas-mezzle "Ideas, Planning, & Feedback") [👀](#review-mezzle "Reviewed Pull Requests") | [<img src="https://avatars1.githubusercontent.com/u/3495587?v=4" width="100px;" alt="Grzegorz Rajchman"/><br /><sub><b>Grzegorz Rajchman</b></sub>](https://github.com/mrliptontea)<br />[💻](https://github.com/sane-defaults/phpcs/commits?author=mrliptontea "Code") [🤔](#ideas-mrliptontea "Ideas, Planning, & Feedback") [📖](https://github.com/sane-defaults/phpcs/commits?author=mrliptontea "Documentation") |
 | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
