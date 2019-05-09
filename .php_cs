@@ -24,7 +24,6 @@ $config->setRules(
         'blank_line_after_opening_tag' => true,
         'blank_line_before_statement' => [
             'statements' => [
-                'break',
                 'case',
                 'continue',
                 'declare',
@@ -36,10 +35,6 @@ $config->setRules(
                 'foreach',
                 'goto',
                 'if',
-                'include',
-                'include_once',
-                'require',
-                'require_once',
                 'return',
                 'switch',
                 'throw',
